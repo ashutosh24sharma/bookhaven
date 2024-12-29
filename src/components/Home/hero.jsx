@@ -10,7 +10,7 @@ function Hero() {
       </div>
       
       <div className="lg:w-3/6 w-full h-100 lg:h-[100%] flex item-center justify-center">
-      <img  src="./herorbg.png" alt="hero" className="md:h-[85%]" />
+      <img  src="./hero.web.png" alt="hero" className="md:h-[85%]" />
       </div>
 
     </div>  );
